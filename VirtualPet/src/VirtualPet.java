@@ -19,7 +19,7 @@ public class VirtualPet {
     }
 
     public String toString() {
-        return pet + "'s information: "+ "\n"
+        return pet + "'s information:"+ "\n"
                 +"energy: "+ energy + "\n"+
                 " hapiness: " + hapiness + "\n" + " " +
                 "Weight: "+ weight+ "\n" +
